@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Virtual Environment
+venv/
+.venv/
+
+# Mac specific unwanted files
+.DS_Store
+
 # C extensions
 *.so
 
